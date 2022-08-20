@@ -7,7 +7,7 @@
   "description": "Simple phasmophobia evidence overlay using shortcuts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/BThiebaut/phasmo-ev-overlay.git"
+    "url": "https://github.com/Strrato/Phasmo-Ev-Overlay.git"
   },
   "license": "MIT",
   "keywords": [
